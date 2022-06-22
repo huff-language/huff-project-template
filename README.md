@@ -2,6 +2,28 @@
 
 **Template repository for getting started quickly with Huff projects using Foundry**
 
+```
+                                        .&%@&&&&&&
+                                    ,..&&&@&&&&&@
+                                    @&*&&&&@&&&&@&&
+                                    &&&&&& @&&&&&&&@
+                                    &&&&&%&&&&&&&&&&&
+                                    &&&&&&&&&   &&&&,
+                                    &@&&&&&&&&@(
+                                    .&/&&&&&&&@&&&
+                                        &&&&&&&&&&& &@
+                                        &&&&&&&&&&&&
+                                        @&&&&&&&&&/
+                                        &&&&&&&&&
+                                        &&&&&&&&&&&&&
+                                    /&&&&&&&&&&&@&&&@@
+                                ██   ██ ██    ██ ███████ ███████
+                                ██   ██ ██    ██ ██      ██
+                                ███████ ██    ██ █████   █████
+                                ██   ██ ██    ██ ██      ██
+                                ██   ██  ██████  ██      ██
+```
+
 ## Getting Started
 
 Click "Use this template" on [GitHub](https://github.com/huff-language/huff-project-template) to create a new repository with this repo as the initial state.
