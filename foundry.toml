@@ -1,5 +1,3 @@
 [default]
-out = 'out'
-libs = ['lib']
 ffi = true
 fuzz-runs=10_000
