@@ -34,4 +34,11 @@ Once you've cloned and entered into your repository, you need to install the nec
 make
 ```
 
+To build and test your contracts, you can run:
+
+```shell
+forge build
+forge test
+```
+
 For more information on how to use Foundry, check out the [Foundry Github Repository](https://github.com/foundry-rs/foundry/tree/master/forge) and the [foundry-huff library repository](https://github.com/huff-language/foundry-huff).
