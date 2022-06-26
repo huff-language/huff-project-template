@@ -1,4 +1,4 @@
-all: huffc ts-node update
-huffc:; yarn global add huffc@$(version) 
-ts-node:; yarn global add ts-node
+all: compiler install update
+compiler:; yarn add huffc@$(version) 
+install:; forge install
 update:; forge update
