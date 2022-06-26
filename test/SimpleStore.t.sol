@@ -11,7 +11,7 @@ contract SimpleStoreTest is Test {
 
     /// @dev Setup the testing environment.
     function setUp() public {
-        simpleStore = SimpleStore(new HuffDeployer().deploy("SimpleStore"));
+        simpleStore = SimpleStore(HuffDeployer.deploy("SimpleStore"));
     }
 
     /// @dev Ensure that you can set and get the value.
