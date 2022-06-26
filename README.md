@@ -34,6 +34,12 @@ Once you've cloned and entered into your repository, you need to install the nec
 make
 ```
 
+If you'd like to specify a Huff compiler version, you can run:
+
+```shell
+make version=x.y.z
+```
+
 To build and test your contracts, you can run:
 
 ```shell
