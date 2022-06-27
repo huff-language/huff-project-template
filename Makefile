@@ -1,4 +1,4 @@
 all: compiler install update
-compiler:; yarn add huffc@$(version) 
+compiler:; curl -L get.huff.sh | bash
 install:; forge install
 update:; forge update
