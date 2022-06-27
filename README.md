@@ -1,5 +1,7 @@
 # <h1 align="center"> Huff Project Template </h1>
 
+[![Tests](https://github.com/huff-language/huff-project-template/workflows/Tests/badge.svg)](https://github.com/huff-language/huff-project-template/actions?query=workflow%3ATests)
+
 **Template repository for getting started quickly with Huff projects using Foundry**
 
 ```
