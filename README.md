@@ -42,7 +42,7 @@ test
 
 ## License
 
-[AGPL-3.0-only](https://github.com/huff-language/huff-project-template/blob/master/LICENSE)
+[The Unlicense](https://github.com/huff-language/huff-project-template/blob/master/LICENSE)
 
 
 ## Acknowledgements
