@@ -52,5 +52,5 @@ jobs:
           ls -lsa
           ls script/
           for file in script/*; do
-            forge script $file
+            forge script $file -vvvv
           done
