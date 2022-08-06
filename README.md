@@ -15,10 +15,10 @@ The following will need to be installed in order to use this template. Please fo
     -   You'll know you've done it right if you can run `git --version`
 -   [Foundry / Foundryup](https://github.com/gakonst/foundry)
     -   This will install `forge`, `cast`, and `anvil`
-    -   You can test you've installed them right by running `forge --version` and get an output like: `forge 0.2.0 (f016135 2022-07-04T00:15:02.930499Z)`
+    -   You can test you've installed them right by running `forge --version` and get an output like: `forge 0.2.0 (92f8951 2022-08-06T00:09:32.96582Z)`
     -   To get the latest of each, just run `foundryup`
 -   [Huff Compiler](https://docs.huff.sh/get-started/installing/)
-    -   You'll know you've done it right if you can run `huffc --version` and get an output like: `huffc 0.2.0`
+    -   You'll know you've done it right if you can run `huffc --version` and get an output like: `huffc 0.3.0`
 
 ### Quickstart
 
