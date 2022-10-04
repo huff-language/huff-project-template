@@ -30,6 +30,8 @@
     dup1 __FUNC_SIG(setValue) eq set jumpi
     dup1 __FUNC_SIG(getValue) eq get jumpi
 
+    0x00 0x00 revert
+
     set:
         SET_VALUE()
     get:
