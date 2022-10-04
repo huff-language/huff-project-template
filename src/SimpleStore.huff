@@ -27,8 +27,8 @@
 #define macro MAIN() = takes (0) returns (0) {
     // Identify which function is being called.
     0x00 calldataload 0xE0 shr
-    dup1 0x55241077 eq set jumpi
-    dup1 0x20965255 eq get jumpi
+    dup1 __FUNC_SIG(setValue) eq set jumpi
+    dup1 __FUNC_SIG(getValue) eq get jumpi
 
     set:
         SET_VALUE()
