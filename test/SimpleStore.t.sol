@@ -6,7 +6,7 @@ import "forge-std/Test.sol";
 import "forge-std/console.sol";
 
 contract SimpleStoreTest is Test {
-    /// @dev Address of the SimpleStore contract.  
+    /// @dev Address of the SimpleStore contract.
     SimpleStore public simpleStore;
 
     /// @dev Setup the testing environment.
