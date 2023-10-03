@@ -10,6 +10,9 @@
     0x04 calldataload   // [value]
     [VALUE_LOCATION]    // [ptr, value]
     sstore              // []
+
+    // Exit
+    0x20 0x00 return
 }
 
 #define macro GET_VALUE() = takes (0) returns (0) {
